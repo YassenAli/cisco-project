@@ -13,6 +13,13 @@ This project involves designing, configuring, and securing a small network using
 
 ---
 
+## Network Design Screenshot
+Here is a screenshot of the network design from Cisco Packet Tracer:
+
+![Network Design](images/network_design.png)
+
+---
+
 ## Week 1: Network Design and Configuration
 ### Task
 - Design a small network using Cisco devices.
@@ -58,10 +65,3 @@ This project involves designing, configuring, and securing a small network using
 - Final report
 - Presentation slides
 - Test results
-
----
-
-## Network Design Screenshot
-Here is a screenshot of the network design from Cisco Packet Tracer:
-
-![Network Design](images/network_design.png)
