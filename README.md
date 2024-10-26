@@ -7,7 +7,7 @@ This project involves designing, configuring, and securing a small network using
 - Mohab
 - Mohamed Hamada
 - Moataz
-- Safiya
+- Safiya Abdelbaky 
 - Sara
 - Yassin
 
