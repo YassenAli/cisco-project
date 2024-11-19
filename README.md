@@ -6,7 +6,7 @@ This project involves designing, configuring, and securing a small network using
 ## Team Members
 - Mohab
 - Mohamed Hamada
-- Moataz
+- Moataz Mohammad
 - Safiya Abdelbaky 
 - Sara
 - Yassin
